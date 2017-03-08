@@ -1,0 +1,70 @@
+{
+  "efavirenz": [
+    {
+      "atripla": {
+        "pred_indications": [
+          "urti", 
+          "retch", 
+          "stillbirths", 
+          "cyst"
+        ]
+      }
+    }, 
+    {
+      "efavirenz": {
+        "pred_indications": [
+          "osteochondrosis", 
+          "ischaemia", 
+          "dwarfism", 
+          "warmth", 
+          "warmth", 
+          "moans", 
+          "depressed", 
+          "pharyngitis"
+        ]
+      }
+    }, 
+    {
+      "emtricitabine": {
+        "pred_indications": [
+          "myelinolysis", 
+          "weariness", 
+          "myelinolysis", 
+          "livedo", 
+          "gist", 
+          "weariness", 
+          "pustules", 
+          "blister", 
+          "blister", 
+          "blister", 
+          "blister", 
+          "agoraphobia", 
+          "weariness", 
+          "weariness", 
+          "mrsa", 
+          "mrsa"
+        ]
+      }
+    }, 
+    {
+      "tenofovir": {
+        "pred_indications": [
+          "lymphocytosis", 
+          "arousing", 
+          "stds", 
+          "stds", 
+          "stds", 
+          "stds", 
+          "stds", 
+          "stds", 
+          "stds", 
+          "stds", 
+          "stds", 
+          "stds", 
+          "stds", 
+          "agoraphobia"
+        ]
+      }
+    }
+  ]
+}

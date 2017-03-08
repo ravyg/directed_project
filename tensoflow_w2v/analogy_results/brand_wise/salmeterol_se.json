@@ -1,0 +1,68 @@
+{
+  "salmeterol": [
+    {
+      "advair_diskus": {
+        "pred_side_effects": [
+          "sneeze", 
+          "sneeze", 
+          "sneeze", 
+          "sneeze", 
+          "sneeze", 
+          "sneeze", 
+          "sneeze", 
+          "hematoma", 
+          "hematoma", 
+          "hematoma"
+        ]
+      }
+    }, 
+    {
+      "fluticasone_and_salmeterol": {
+        "pred_side_effects": [
+          "sneeze", 
+          "sneeze", 
+          "sneeze", 
+          "sneeze", 
+          "sneeze", 
+          "sneeze", 
+          "sneeze", 
+          "hematoma", 
+          "hematoma", 
+          "hematoma"
+        ]
+      }
+    }, 
+    {
+      "advair_diskus": {
+        "pred_side_effects": [
+          "sneeze", 
+          "sneeze", 
+          "sneeze", 
+          "sneeze", 
+          "sneeze", 
+          "sneeze", 
+          "sneeze", 
+          "hematoma", 
+          "hematoma", 
+          "hematoma"
+        ]
+      }
+    }, 
+    {
+      "advair_hfa": {
+        "pred_side_effects": [
+          "sneeze", 
+          "sneeze", 
+          "sneeze", 
+          "sneeze", 
+          "sneeze", 
+          "sneeze", 
+          "sneeze", 
+          "hematoma", 
+          "hematoma", 
+          "hematoma"
+        ]
+      }
+    }
+  ]
+}

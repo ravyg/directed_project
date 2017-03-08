@@ -1,0 +1,75 @@
+{
+  "insulin_aspart": [
+    {
+      "novolog": {
+        "pred_indications": [
+          "colitis", 
+          "hypertonia", 
+          "arrhythmia", 
+          "teething", 
+          "hypertonia", 
+          "otalgia", 
+          "otalgia", 
+          "otalgia", 
+          "otalgia", 
+          "otalgia", 
+          "retinopathy", 
+          "retinopathy", 
+          "leukemia", 
+          "malaise", 
+          "acromegaly", 
+          "rhabdomyolysis", 
+          "granulomas", 
+          "retinopathy", 
+          "retinopathy", 
+          "retinopathy"
+        ]
+      }
+    }, 
+    {
+      "insulin_aspart": {
+        "pred_indications": [
+          "stillbirths", 
+          "stillbirths", 
+          "stillbirths", 
+          "stillbirths", 
+          "stillbirths", 
+          "stillbirths", 
+          "stillbirths", 
+          "stillbirths", 
+          "stillbirths", 
+          "stillbirths", 
+          "stillbirths", 
+          "stillbirths", 
+          "stillbirths"
+        ]
+      }
+    }, 
+    {
+      "novolog": {
+        "pred_indications": [
+          "colitis", 
+          "hypertonia", 
+          "arrhythmia", 
+          "teething", 
+          "hypertonia", 
+          "otalgia", 
+          "otalgia", 
+          "otalgia", 
+          "otalgia", 
+          "otalgia", 
+          "retinopathy", 
+          "retinopathy", 
+          "leukemia", 
+          "malaise", 
+          "acromegaly", 
+          "rhabdomyolysis", 
+          "granulomas", 
+          "retinopathy", 
+          "retinopathy", 
+          "retinopathy"
+        ]
+      }
+    }
+  ]
+}

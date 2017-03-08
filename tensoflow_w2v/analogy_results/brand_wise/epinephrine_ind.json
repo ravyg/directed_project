@@ -1,0 +1,117 @@
+{
+  "epinephrine": [
+    {
+      "epipen": {
+        "pred_indications": [
+          "lymphocytosis", 
+          "retinopathy", 
+          "retinopathy", 
+          "fart", 
+          "fart", 
+          "fart", 
+          "overactivity", 
+          "fart", 
+          "fart", 
+          "fart", 
+          "fart", 
+          "suspiciousness", 
+          "fart", 
+          "disorientation", 
+          "retinopathy", 
+          "retinopathy", 
+          "retinopathy"
+        ]
+      }
+    }, 
+    {
+      "epinephrine": {
+        "pred_indications": [
+          "excitability", 
+          "raging", 
+          "raging", 
+          "raging", 
+          "stutter", 
+          "stutter", 
+          "raging", 
+          "raging", 
+          "alveolitis", 
+          "hyperextension", 
+          "drunkenness", 
+          "raging", 
+          "raging", 
+          "nauseated"
+        ]
+      }
+    }, 
+    {
+      "adrenaclick": {
+        "pred_indications": [
+          "stillbirths", 
+          "stillbirths", 
+          "stillbirths", 
+          "stillbirths", 
+          "stillbirths", 
+          "stillbirths", 
+          "stillbirths", 
+          "stillbirths", 
+          "stillbirths", 
+          "stillbirths", 
+          "stillbirths", 
+          "stillbirths", 
+          "stillbirths"
+        ]
+      }
+    }, 
+    {
+      "adrenalin": {
+        "pred_indications": [
+          "myelinolysis", 
+          "sneezing", 
+          "psoriasi", 
+          "psoriasi", 
+          "ischaemia", 
+          "hyperhidrosis", 
+          "hyperhidrosis"
+        ]
+      }
+    }, 
+    {
+      "auvi_q": {
+        "pred_indications": [
+          "stillbirths", 
+          "stillbirths", 
+          "stillbirths", 
+          "stillbirths", 
+          "stillbirths", 
+          "stillbirths", 
+          "stillbirths", 
+          "stillbirths", 
+          "stillbirths", 
+          "stillbirths", 
+          "stillbirths", 
+          "stillbirths", 
+          "stillbirths"
+        ]
+      }
+    }, 
+    {
+      "twinject": {
+        "pred_indications": [
+          "stillbirths", 
+          "stillbirths", 
+          "stillbirths", 
+          "stillbirths", 
+          "stillbirths", 
+          "stillbirths", 
+          "stillbirths", 
+          "stillbirths", 
+          "stillbirths", 
+          "stillbirths", 
+          "stillbirths", 
+          "stillbirths", 
+          "stillbirths"
+        ]
+      }
+    }
+  ]
+}

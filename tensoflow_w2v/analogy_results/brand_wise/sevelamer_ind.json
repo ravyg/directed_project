@@ -1,0 +1,45 @@
+{
+  "sevelamer": [
+    {
+      "renvela": {
+        "pred_indications": [
+          "lymphocytosis", 
+          "otalgia", 
+          "otalgia", 
+          "otalgia", 
+          "otalgia", 
+          "warmth", 
+          "warmth"
+        ]
+      }
+    }, 
+    {
+      "sevelamer": {
+        "pred_indications": [
+          "numbness", 
+          "aminoacidurias", 
+          "hypotonia", 
+          "bruised", 
+          "weaknesses", 
+          "anthrax", 
+          "quiver", 
+          "allodynia"
+        ]
+      }
+    }, 
+    {
+      "renagel": {
+        "pred_indications": [
+          "lymphocytosis", 
+          "urti", 
+          "lymphoma", 
+          "lymphoma", 
+          "sclc", 
+          "fears", 
+          "confusion", 
+          "hidradenitis"
+        ]
+      }
+    }
+  ]
+}

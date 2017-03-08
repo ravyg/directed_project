@@ -1,0 +1,57 @@
+{
+  "insulin_detemir": [
+    {
+      "levemir": {
+        "pred_indications": [
+          "retinopathy", 
+          "retinopathy", 
+          "retinopathy", 
+          "hypertonia", 
+          "photosensitivity", 
+          "tantrum", 
+          "retinopathy", 
+          "retinopathy", 
+          "photosensitivity", 
+          "photosensitivity", 
+          "photosensitivity", 
+          "photosensitivity", 
+          "photosensitivity", 
+          "photosensitivity", 
+          "photosensitivity", 
+          "photosensitivity", 
+          "photosensitivity", 
+          "photosensitivity", 
+          "photosensitivity", 
+          "scaling", 
+          "scaling", 
+          "scaling", 
+          "stillbirths", 
+          "nauseous", 
+          "leucoplakia", 
+          "retinopathy", 
+          "retinopathy", 
+          "retinopathy"
+        ]
+      }
+    }, 
+    {
+      "insulin_detemir": {
+        "pred_indications": [
+          "stillbirths", 
+          "stillbirths", 
+          "stillbirths", 
+          "stillbirths", 
+          "stillbirths", 
+          "stillbirths", 
+          "stillbirths", 
+          "stillbirths", 
+          "stillbirths", 
+          "stillbirths", 
+          "stillbirths", 
+          "stillbirths", 
+          "stillbirths"
+        ]
+      }
+    }
+  ]
+}

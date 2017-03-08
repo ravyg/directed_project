@@ -1,0 +1,50 @@
+{
+  "dabigatran": [
+    {
+      "pradaxa": {
+        "pred_indications": [
+          "ailments", 
+          "aspergillosis", 
+          "mastitis", 
+          "mastitis", 
+          "otalgia", 
+          "aspergillosis", 
+          "psoriasi", 
+          "psoriasi", 
+          "mastitis", 
+          "rhinorrhea", 
+          "aspergillosis", 
+          "aspergillosis"
+        ]
+      }
+    }, 
+    {
+      "dabigatran": {
+        "pred_indications": [
+          "infertility", 
+          "infertility", 
+          "infertility", 
+          "hyperesthesia", 
+          "gonorrhoea", 
+          "gonorrhoea", 
+          "gonorrhoea", 
+          "bruxism", 
+          "gonorrhoea", 
+          "teething", 
+          "gonorrhoea", 
+          "hyperesthesia", 
+          "gonorrhoea", 
+          "gonorrhoea", 
+          "stillbirths", 
+          "stillbirths", 
+          "gonorrhoea", 
+          "gonorrhoea", 
+          "gonorrhoea", 
+          "endophthalmitis", 
+          "agoraphobia", 
+          "gonorrhoea"
+        ]
+      }
+    }
+  ]
+}

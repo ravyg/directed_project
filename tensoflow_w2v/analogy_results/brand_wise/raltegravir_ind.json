@@ -1,0 +1,82 @@
+{
+  "raltegravir": [
+    {
+      "isentress": {
+        "pred_indications": [
+          "stutter", 
+          "photosensitivity", 
+          "flutters", 
+          "bruxism", 
+          "osteoarthrosis", 
+          "osteoarthrosis", 
+          "photosensitivity", 
+          "photosensitivity", 
+          "photosensitivity", 
+          "photosensitivity", 
+          "photosensitivity", 
+          "ischaemia", 
+          "photosensitivity", 
+          "photosensitivity", 
+          "photosensitivity", 
+          "photosensitivity", 
+          "photosensitivity", 
+          "photosensitivity", 
+          "jaundice", 
+          "jaundice", 
+          "agoraphobia", 
+          "headaches", 
+          "diuresis", 
+          "moans"
+        ]
+      }
+    }, 
+    {
+      "raltegravir": {
+        "pred_indications": [
+          "menopause", 
+          "retinopathy", 
+          "excitement", 
+          "retinopathy", 
+          "excitement", 
+          "retinopathy", 
+          "excitement", 
+          "excitement", 
+          "thrombosis", 
+          "sneezing", 
+          "ttps", 
+          "excitement", 
+          "menopause", 
+          "menopause", 
+          "menopause", 
+          "excitement", 
+          "excitement", 
+          "retinopathy", 
+          "retinopathy", 
+          "leukaemias", 
+          "alveolitis", 
+          "menopause", 
+          "excitement", 
+          "excitement", 
+          "excitement", 
+          "excitement", 
+          "excitement", 
+          "bronchiectasis", 
+          "excitement", 
+          "excitement", 
+          "excitement", 
+          "excitement", 
+          "excitement", 
+          "excitement", 
+          "excitement", 
+          "excitement", 
+          "excitement", 
+          "moans", 
+          "retinopathy", 
+          "retinopathy", 
+          "retinopathy", 
+          "excitement"
+        ]
+      }
+    }
+  ]
+}

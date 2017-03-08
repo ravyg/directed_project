@@ -1,0 +1,32 @@
+{
+  "fentanyl": [
+    {
+      "fentanyl": {
+        "pred_indications": [
+          "locs", 
+          "itched", 
+          "hypertonia", 
+          "herniations", 
+          "locs"
+        ]
+      }
+    }, 
+    {
+      "sublimaze": {
+        "pred_indications": [
+          "scare", 
+          "scare", 
+          "scare", 
+          "stutter", 
+          "myoglobinuria", 
+          "immunocompromised", 
+          "bruxism", 
+          "bruxism", 
+          "rhinitis", 
+          "sunburned", 
+          "sunburned"
+        ]
+      }
+    }
+  ]
+}

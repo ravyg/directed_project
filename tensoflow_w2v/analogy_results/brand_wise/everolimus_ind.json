@@ -1,0 +1,80 @@
+{
+  "everolimus": [
+    {
+      "afinitor": {
+        "pred_indications": [
+          "retinopathy", 
+          "retinopathy", 
+          "retinopathy", 
+          "warts", 
+          "warts", 
+          "warts", 
+          "warts", 
+          "sprue", 
+          "sunburned", 
+          "sunburned", 
+          "warts", 
+          "warts", 
+          "warts", 
+          "disorientation", 
+          "warts"
+        ]
+      }
+    }, 
+    {
+      "everolimus": {
+        "pred_indications": [
+          "embolisms", 
+          "sleeptalking", 
+          "embolisms", 
+          "sleeptalking", 
+          "embolisms", 
+          "sleeptalking", 
+          "stutter", 
+          "hyperinsulinaemia", 
+          "dysentery", 
+          "dysentery", 
+          "bruise", 
+          "embolisms", 
+          "embolisms", 
+          "orthopnoea", 
+          "albino", 
+          "necrosis", 
+          "necrosis", 
+          "embolisms", 
+          "stillbirths", 
+          "stillbirths", 
+          "adenocarcinoma", 
+          "embolisms", 
+          "embolisms", 
+          "embolisms", 
+          "embolisms", 
+          "embolisms", 
+          "embolisms", 
+          "embolisms", 
+          "necrosis", 
+          "necrosis"
+        ]
+      }
+    }, 
+    {
+      "afinitor_disperz": {
+        "pred_indications": [
+          "stillbirths", 
+          "stillbirths", 
+          "stillbirths", 
+          "stillbirths", 
+          "stillbirths", 
+          "stillbirths", 
+          "stillbirths", 
+          "stillbirths", 
+          "stillbirths", 
+          "stillbirths", 
+          "stillbirths", 
+          "stillbirths", 
+          "stillbirths"
+        ]
+      }
+    }
+  ]
+}

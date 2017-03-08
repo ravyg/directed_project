@@ -1,0 +1,23 @@
+{
+  "abatacept": [
+    {
+      "orencia": {
+        "pred_indications": [
+          "gallstones", 
+          "gallstones"
+        ]
+      }
+    }, 
+    {
+      "abatacept": {
+        "pred_indications": [
+          "wheezy", 
+          "suspiciousness", 
+          "infestation", 
+          "albinism", 
+          "albinism"
+        ]
+      }
+    }
+  ]
+}

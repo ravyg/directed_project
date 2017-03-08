@@ -1,0 +1,135 @@
+{
+  "enoxaparin": [
+    {
+      "enoxaparin": {
+        "pred_indications": [
+          "lymphocytosis", 
+          "overactivity", 
+          "hypercholesterolaemia", 
+          "hemoptysis", 
+          "hemoptysis", 
+          "alveolitis", 
+          "stillbirths", 
+          "jaundice", 
+          "hypercholesterolaemia", 
+          "jaundice", 
+          "hypercholesterolaemia"
+        ]
+      }
+    }, 
+    {
+      "lovenox": {
+        "pred_indications": [
+          "lymphocytosis", 
+          "utis", 
+          "retinopathy", 
+          "retinopathy", 
+          "candidosis", 
+          "candidosis", 
+          "candidosis", 
+          "candidosis", 
+          "candidosis", 
+          "candidosis", 
+          "candidosis", 
+          "candidosis", 
+          "candidosis", 
+          "candidosis", 
+          "candidosis", 
+          "candidosis", 
+          "candidosis", 
+          "candidosis", 
+          "candidosis", 
+          "candidosis", 
+          "candidosis", 
+          "candidosis", 
+          "candidosis", 
+          "candidosis", 
+          "candidosis", 
+          "candidosis", 
+          "candidosis", 
+          "candidosis", 
+          "candidosis", 
+          "candidosis", 
+          "candidosis", 
+          "candidosis", 
+          "candidosis", 
+          "candidosis", 
+          "candidosis", 
+          "candidosis", 
+          "candidosis", 
+          "candidosis", 
+          "candidosis", 
+          "candidosis", 
+          "candidosis", 
+          "candidosis", 
+          "candidosis", 
+          "candidosis", 
+          "anthrax", 
+          "retinopathy", 
+          "retinopathy", 
+          "retinopathy", 
+          "candidosis", 
+          "candidosis", 
+          "candidosis"
+        ]
+      }
+    }, 
+    {
+      "lovenox_hp": {
+        "pred_indications": [
+          "stillbirths", 
+          "stillbirths", 
+          "stillbirths", 
+          "stillbirths", 
+          "stillbirths", 
+          "stillbirths", 
+          "stillbirths", 
+          "stillbirths", 
+          "stillbirths", 
+          "stillbirths", 
+          "stillbirths", 
+          "stillbirths", 
+          "stillbirths"
+        ]
+      }
+    }, 
+    {
+      "clexane": {
+        "pred_indications": [
+          "wrinkled", 
+          "hyperreflexic", 
+          "injury", 
+          "injury", 
+          "injury", 
+          "blister", 
+          "infestation", 
+          "clotting", 
+          "blister", 
+          "blister", 
+          "blister", 
+          "blister", 
+          "fear"
+        ]
+      }
+    }, 
+    {
+      "clexane_forte": {
+        "pred_indications": [
+          "stillbirths", 
+          "stillbirths", 
+          "stillbirths", 
+          "stillbirths", 
+          "stillbirths", 
+          "stillbirths", 
+          "stillbirths", 
+          "stillbirths", 
+          "stillbirths", 
+          "stillbirths", 
+          "stillbirths", 
+          "stillbirths", 
+          "stillbirths"
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,103 @@
+Abilify,aripiprazole
+acetaminophen/hydrocodone,Anexsia,Dolorex Forte,Hycet,Liquicet,Lorcet,Lortab,Maxidone,Norco,Polygesic,Stagesic,Vicodin,Xodol,Zamicet,Zydone
+Aciphex	rabeprazole,Aciphex
+Advair Diskus,fluticasone and salmeterol,Advair Diskus,Advair HFA
+Afinitor,everolimus,Afinitor Disperz
+Alimta,pemetrexed
+amphetamine/dextroamphetamine,Adderall
+AndroGel,testosterone topical,Androderm,AndroGel,Axiron,FIRST-Testosterone,Fortesta,Testim,Vogelxo
+Aranesp,darbepoetin alfa
+atorvastatin,Lipitor
+Atripla,efavirenz,emtricitabine,tenofovir
+Avastin,bevacizumab
+Avonex,interferon beta-1a,vonex,Rebif,Rebif Rebidose
+Benicar,olmesartan
+Benicar HCT
+Betaseron,interferon beta-1b,Extavia
+budesonide,Entocort EC,Uceris
+Celebrex,celecoxib
+Cialis,tadalafil,Adcirca
+Combivent,albuterol and ipratropium,Combivent Respimat,DuoNeb
+Copaxone,glatiramer,Copaxone
+Crestor,rosuvastatin,Crestor
+Cymbalta,duloxetine
+Dexilant,dexlansoprazole,Dexilant
+Diovan HCT,hydrochlorothiazide and valsartan,Diovan HCT
+divalproex sodium,Depakote,Depakote ER,Depakote Sprinkles
+doxycycline,Acticlate,Adoxa,Alodox,Avidoxy,Doryx,Monodox,Morgidox,NicAzel Doxy 30,Ocudox,Oracea,Oraxyl,Vibramycin
+Enbrel,etanercept,Enbrel
+enoxaparin,Lovenox,Lovenox HP,Clexane,Clexane Forte
+EpiPen,epinephrine,Adrenaclick,Adrenalin,Auvi-Q,Twinject
+Epogen,epoetin alfa,Procrit
+Evista,raloxifene
+fenofibrate,fenofibrate,Antara,Fenoglide,Lipofen,Lofibra,TriCor,Triglide,Lipidil Micro,Dom-Fenofibrate,Lipidil Supra,Lipidil EZ
+fentanyl,Sublimaze
+Flovent HFA,fluticasone inhalation,Flovent Diskus,Flovent HFA
+Fluzone,influenza virus vaccine,Afluria,Fluarix,Flublok,Flucelvax,FluLaval,Fluvirin,Fluzone
+Gilenya,fingolimod
+Gleevec,imatinib
+Herceptin,trastuzumab
+Humalog,insulin lispro,HumaLOG KwikPen
+adalimumab,Humira
+hydrochlorothiazide and valsartan,Diovan HCT
+Incivek,telaprevir
+Invega Sustenna,paliperidone
+Isentress,raltegravir
+Janumet,metformin and sitagliptin,Janumet XR
+Januvia,sitagliptin
+Lantus,insulin glargine
+Lantus Solostar
+Levemir,insulin detemir
+levothyroxine,Levothroid,Levoxyl,Synthroid,Tirosint,Unithroid
+lidocaine,lidocaine topical,AneCream,AneCream with Tegaderm,Anestacon,Bactine,LidaMantle,Lidocream,Lidoderm,Lidosense5,LMX 4,LMX 4 with Tegaderm,LMX 5,Medi-Quik Spray,Senatec,Xylocaine Jelly,Xylocaine Topical,Zilactin-L
+Lovaza,omega-3 polyunsaturated fatty acids,Animi-3,Cardio Omega Benefits,Divista,Dry Eye Omega Omega Advantage,Omega Essentials,Sea-Omega,TheraTears Nutrition,TherOmega,VascazenBenefits,EPAOil,Fish Oil,Fish Oil Ultra,Flex Omega Benefits,Icar Prenatal Essential Omega-3,Lovaza,MaxEPA,MaxiTears Dry Eye Formula,MaxiVision Omega-3 Formula,Mi-Omega NF
+Lucentis,ranibizumab
+Lunesta,eszopiclone
+Lyrica,pregabalin
+methylphenidate,Concerta,Metadate CD,Metadate ER,Methylin,Methylin ER,Quillivant XR,Ritalin,Ritalin LA,Ritalin-SR
+metoprolol,Lopressor,Metoprolol Succinate ER,Metoprolol Tartrate,Toprol-XL
+modafinil,Provigil
+Namenda,memantine,Namenda XR
+Nasonex,mometasone nasal
+Neulasta,pegfilgrastim
+Neupogen,filgrastim,Neupogen SingleJect
+Nexium,esomeprazole,Esomeprazole Strontium,NexIUM,Nexium 24HR
+Niaspan,niacin (nicotinic acid),B-3-50,B3-500-Gr,Niacin SR,Niacor,Niaspan ER,Slo-Niacin
+Novolog,insulin aspart,NovoLOG
+omeprazole,FIRST Omeprazole,PriLOSEC,PriLOSEC OTC,Zegerid
+Orencia,abatacept
+OxyContin,oxycodone,Oxecta,OxyCONTIN,Oxyfast,Roxicodone
+Pradaxa,dabigatran
+Prevnar 13,pneumococcal 13-valent conjugate vaccine
+Prezista,darunavir,Prezista
+ProAir HFA,albuterol inhalation,Accuneb,Proventil,Proventil HFA,ReliOn Ventolin HFA,Ventolin HFA
+Procrit	,epoetin alfa,Epogen
+Rebif,interferon beta-1a,vonex,Avonex,Rebif Rebidose
+Remicade,infliximab
+Renvela,sevelamer,Renagel
+Restasis,cyclosporine ophthalmic
+Reyataz,atazanavir
+Rituxan,rituximab
+Sensipar,cinacalcet
+Seroquel XR,quetiapine,SEROquel
+Spiriva
+Stelara,ustekinumab
+Suboxone,buprenorphine and naloxone,Bunavail,Zubsolv
+Symbicort,budesonide and formoterol
+Synagis,palivizumab
+Synthroid,levothyroxine,Levothroid,Levoxyl,Tirosint,Unithroid
+Tamiflu,oseltamivir
+Tecfidera,dimethyl fumarate
+Truvada,emtricitabine and tenofovir
+Ventolin HFA,albuterol inhalation,Accuneb,ProAir HFA,Proventil,Proventil HFA,ReliOn Ventolin HFA,Ventolin HFA
+VESIcare,solifenacin
+Viagra,sildenafil,Revatio
+Victoza,liraglutide
+Vytorin,ezetimibe and simvastatin
+Vyvanse,lisdexamfetamine
+Xarelto,rivaroxaban
+Xeloda,capecitabine
+Xgeva,denosumab
+Xolair,omalizumab
+Zetia,ezetimibe
+Zytiga,abiraterone

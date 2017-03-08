@@ -1,0 +1,46 @@
+{
+  "eszopiclone": [
+    {
+      "lunesta": {
+        "pred_indications": [
+          "retinopathy", 
+          "fuzzy", 
+          "urti", 
+          "boils", 
+          "boils", 
+          "anger", 
+          "infestations", 
+          "falling", 
+          "falling"
+        ]
+      }
+    }, 
+    {
+      "eszopiclone": {
+        "pred_indications": [
+          "metastasis", 
+          "embolisms", 
+          "metastasis", 
+          "embolisms", 
+          "metastasis", 
+          "embolisms", 
+          "tonsillitis", 
+          "embolisms", 
+          "embolisms", 
+          "sarcoidosis", 
+          "hypertrophic", 
+          "goiter", 
+          "goiter", 
+          "embolisms", 
+          "embolisms", 
+          "embolisms", 
+          "embolisms", 
+          "embolisms", 
+          "embolisms", 
+          "embolisms", 
+          "embolisms"
+        ]
+      }
+    }
+  ]
+}

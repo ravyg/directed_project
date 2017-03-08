@@ -1,0 +1,57 @@
+{
+  "adalimumab": [
+    {
+      "adalimumab": {
+        "pred_indications": [
+          "lymphocytosis", 
+          "bruxism", 
+          "ischaemia", 
+          "ischaemia", 
+          "dizzies", 
+          "dizzies", 
+          "stillbirths", 
+          "stillbirths", 
+          "melancholic"
+        ]
+      }
+    }, 
+    {
+      "humira": {
+        "pred_indications": [
+          "embolisms", 
+          "embolisms", 
+          "embolisms", 
+          "embolisms", 
+          "embolisms", 
+          "accident", 
+          "embolisms", 
+          "embolisms", 
+          "embolisms", 
+          "purpura", 
+          "purpura", 
+          "tendinitis", 
+          "embolisms", 
+          "bronchiectasis", 
+          "embolisms", 
+          "embolisms", 
+          "embolisms", 
+          "embolisms", 
+          "embolisms", 
+          "embolisms", 
+          "embolisms", 
+          "embolisms", 
+          "embolisms", 
+          "embolisms", 
+          "embolisms", 
+          "embolisms", 
+          "embolisms", 
+          "embolisms", 
+          "embolisms", 
+          "embolisms", 
+          "embolisms", 
+          "embolisms"
+        ]
+      }
+    }
+  ]
+}

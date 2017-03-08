@@ -1,0 +1,44 @@
+{
+  "imatinib": [
+    {
+      "gleevec": {
+        "pred_indications": [
+          "ailments", 
+          "sunburn", 
+          "sunburn", 
+          "stds", 
+          "stds", 
+          "stds", 
+          "stds", 
+          "stds", 
+          "stds", 
+          "stds", 
+          "stds", 
+          "stds", 
+          "stds", 
+          "stds", 
+          "stillbirths", 
+          "stillbirths"
+        ]
+      }
+    }, 
+    {
+      "imatinib": {
+        "pred_indications": [
+          "scar", 
+          "urti", 
+          "purpura", 
+          "bursitis", 
+          "listlessness", 
+          "overactivity", 
+          "ischaemia", 
+          "prolactinoma", 
+          "hidradenitis", 
+          "hidradenitis", 
+          "stillbirths", 
+          "stillbirths"
+        ]
+      }
+    }
+  ]
+}

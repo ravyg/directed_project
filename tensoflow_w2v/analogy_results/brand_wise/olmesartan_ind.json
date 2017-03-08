@@ -1,0 +1,62 @@
+{
+  "olmesartan": [
+    {
+      "benicar": {
+        "pred_indications": [
+          "nosebleeds", 
+          "stressed", 
+          "itching", 
+          "itching", 
+          "bruise", 
+          "osteoarthrosis", 
+          "osteoarthrosis", 
+          "peeling", 
+          "psoriasi", 
+          "osteoporosis", 
+          "itching", 
+          "hyperextension", 
+          "pancreatitis", 
+          "pancreatitis", 
+          "pancreatitis", 
+          "pancreatitis", 
+          "pancreatitis", 
+          "pancreatitis", 
+          "pancreatitis", 
+          "pancreatitis", 
+          "pancreatitis", 
+          "pancreatitis", 
+          "pancreatitis", 
+          "pancreatitis", 
+          "pancreatitis", 
+          "pancreatitis", 
+          "sunburned", 
+          "peeling", 
+          "sunburned", 
+          "peeling", 
+          "bruise", 
+          "pancreatitis", 
+          "pancreatitis", 
+          "pancreatitis"
+        ]
+      }
+    }, 
+    {
+      "olmesartan": {
+        "pred_indications": [
+          "raging", 
+          "raging", 
+          "raging", 
+          "thyroiditis", 
+          "thyroiditis", 
+          "raging", 
+          "raging", 
+          "dizzyness", 
+          "dizzyness", 
+          "raging", 
+          "raging", 
+          "gasps"
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "pemetrexed": [
+    {
+      "alimta": {
+        "pred_indications": [
+          "shakiness", 
+          "flicker", 
+          "sunburned", 
+          "sunburned", 
+          "moans", 
+          "ringworm"
+        ]
+      }
+    }, 
+    {
+      "pemetrexed": {
+        "pred_indications": [
+          "amnesias", 
+          "wheezy", 
+          "wheezy", 
+          "wheezy", 
+          "wheezy", 
+          "malnourished", 
+          "fractured", 
+          "bulging"
+        ]
+      }
+    }
+  ]
+}

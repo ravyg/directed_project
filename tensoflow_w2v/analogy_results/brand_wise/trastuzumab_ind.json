@@ -1,0 +1,64 @@
+{
+  "trastuzumab": [
+    {
+      "herceptin": {
+        "pred_indications": [
+          "pseudotumor", 
+          "insomnia", 
+          "insomnia", 
+          "nephritis", 
+          "bruise", 
+          "alveolitis", 
+          "frustration", 
+          "insomnia", 
+          "seromas", 
+          "stillbirths", 
+          "insomnia", 
+          "tracheitis", 
+          "insomnia", 
+          "insomnia", 
+          "insomnia", 
+          "insomnia", 
+          "insomnia", 
+          "cyst", 
+          "albinism", 
+          "albinism", 
+          "albinism", 
+          "albinism"
+        ]
+      }
+    }, 
+    {
+      "trastuzumab": {
+        "pred_indications": [
+          "nosebleeds", 
+          "nosebleeds", 
+          "embolisms", 
+          "syncope", 
+          "embolisms", 
+          "syncope", 
+          "embolisms", 
+          "syncope", 
+          "tonsillitis", 
+          "embolisms", 
+          "embolisms", 
+          "cytopenias", 
+          "cytopenias", 
+          "cytopenias", 
+          "fears", 
+          "dizzies", 
+          "embolisms", 
+          "embolisms", 
+          "embolisms", 
+          "embolisms", 
+          "embolisms", 
+          "embolisms", 
+          "embolisms", 
+          "embolisms", 
+          "nosebleeds", 
+          "cytopenias"
+        ]
+      }
+    }
+  ]
+}

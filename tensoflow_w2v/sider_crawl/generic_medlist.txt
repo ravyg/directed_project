@@ -1,0 +1,108 @@
+solifenacin
+omeprazole
+fingolimod
+cyclosporine ophthalmic
+hydrochlorothiazide
+valsartan
+glatiramer
+ezetimibe
+simvastatin
+telaprevir
+trastuzumab
+pneumococcal 13-valent conjugate vaccine
+ezetimibe
+aripiprazole
+albuterol inhalation
+interferon beta-1a
+methylphenidate
+darunavir
+sildenafil
+enoxaparin
+memantine
+everolimus
+quetiapine
+rivaroxaban
+olmesartan
+emtricitabine
+sitagliptin
+dabigatran
+influenza virus vaccine
+celecoxib
+lidocaine topical
+insulin aspart
+emtricitabine
+tenofovir
+interferon beta-1b
+pregabalin
+lidocaine
+rituximab
+duloxetine
+fenofibrate
+filgrastim
+denosumab
+imatinib
+doxycycline
+darbepoetin alfa
+rosuvastatin
+insulin glargine
+divalproex sodium
+raltegravir
+infliximab
+capecitabine
+metoprolol
+dexlansoprazole
+efavirenz
+budesonide
+formoterol
+levothyroxine
+liraglutide
+epoetin alfa
+bevacizumab
+tenofovir
+etanercept
+testosterone topical
+sevelamer
+insulin lispro
+vonex
+raloxifene
+ustekinumab
+niacin (nicotinic acid)
+abiraterone
+eszopiclone
+palivizumab
+oseltamivir
+fentanyl
+fluticasone
+salmeterol
+amphetamine
+dextroamphetamine
+fluticasone inhalation
+cinacalcet
+mometasone nasal
+tadalafil
+oxycodone
+abatacept
+lisdexamfetamine
+atorvastatin
+dimethyl fumarate
+albuterol
+ipratropium
+budesonide
+paliperidone
+esomeprazole
+modafinil
+omalizumab
+acetaminophen
+hydrocodone
+atazanavir
+metformin
+sitagliptin
+pemetrexed
+adalimumab
+ranibizumab
+pegfilgrastim
+epinephrine
+buprenorphine
+naloxone
+insulin detemir
+omega-3 polyunsaturated fatty acids

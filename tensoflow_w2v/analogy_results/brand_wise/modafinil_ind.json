@@ -1,0 +1,44 @@
+{
+  "modafinil": [
+    {
+      "modafinil": {
+        "pred_indications": [
+          "diuresis", 
+          "myoglobinuria", 
+          "diuresis", 
+          "diuresis", 
+          "hypersensitivity", 
+          "diuresis", 
+          "granulomas"
+        ]
+      }
+    }, 
+    {
+      "provigil": {
+        "pred_indications": [
+          "ards", 
+          "purpura", 
+          "purpura", 
+          "pats", 
+          "pats", 
+          "pats", 
+          "epileptics", 
+          "ards", 
+          "purpura", 
+          "purpura", 
+          "hamartomas", 
+          "retinopathy", 
+          "retinopathy", 
+          "suspiciousness", 
+          "nodule", 
+          "sunburned", 
+          "sunburned", 
+          "atherosclerosis", 
+          "retinopathy", 
+          "retinopathy", 
+          "retinopathy"
+        ]
+      }
+    }
+  ]
+}

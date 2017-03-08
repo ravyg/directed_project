@@ -1,0 +1,25 @@
+{
+  "denosumab": [
+    {
+      "xgeva": {
+        "pred_indications": [
+          "bruxism", 
+          "bruxism", 
+          "sunburned", 
+          "sunburned"
+        ]
+      }
+    }, 
+    {
+      "denosumab": {
+        "pred_indications": [
+          "aphasia", 
+          "clonus", 
+          "embolism", 
+          "papules", 
+          "pruritis"
+        ]
+      }
+    }
+  ]
+}

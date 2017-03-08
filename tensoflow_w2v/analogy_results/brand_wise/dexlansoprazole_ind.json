@@ -1,0 +1,44 @@
+{
+  "dexlansoprazole": [
+    {
+      "dexilant": {
+        "pred_indications": [
+          "haemangioma", 
+          "porphyria", 
+          "wander", 
+          "stillbirths", 
+          "stillbirths", 
+          "myopathy", 
+          "cramps", 
+          "moans", 
+          "moans"
+        ]
+      }
+    }, 
+    {
+      "dexlansoprazole": {
+        "pred_indications": [
+          "shivering", 
+          "stillbirths", 
+          "stillbirths", 
+          "agoraphobia"
+        ]
+      }
+    }, 
+    {
+      "dexilant": {
+        "pred_indications": [
+          "haemangioma", 
+          "porphyria", 
+          "wander", 
+          "stillbirths", 
+          "stillbirths", 
+          "myopathy", 
+          "cramps", 
+          "moans", 
+          "moans"
+        ]
+      }
+    }
+  ]
+}

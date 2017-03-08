@@ -1,0 +1,37 @@
+{
+  "paliperidone": [
+    {
+      "invega_sustenna": {
+        "pred_indications": [
+          "stillbirths", 
+          "stillbirths", 
+          "stillbirths", 
+          "stillbirths", 
+          "stillbirths", 
+          "stillbirths", 
+          "stillbirths", 
+          "stillbirths", 
+          "stillbirths", 
+          "stillbirths", 
+          "stillbirths", 
+          "stillbirths", 
+          "stillbirths"
+        ]
+      }
+    }, 
+    {
+      "paliperidone": {
+        "pred_indications": [
+          "methaemoglobinaemia", 
+          "lymphocytosis", 
+          "delirious", 
+          "bruxism", 
+          "bruxism", 
+          "delirious", 
+          "lupus", 
+          "stillbirths"
+        ]
+      }
+    }
+  ]
+}

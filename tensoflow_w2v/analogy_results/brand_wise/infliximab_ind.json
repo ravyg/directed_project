@@ -1,0 +1,80 @@
+{
+  "infliximab": [
+    {
+      "remicade": {
+        "pred_indications": [
+          "overactivity", 
+          "overactivity", 
+          "excitement", 
+          "excitement", 
+          "excitement", 
+          "overactivity", 
+          "bruxism", 
+          "bruxism", 
+          "overactivity", 
+          "overactivity", 
+          "overactivity", 
+          "suspiciousness", 
+          "dizzies", 
+          "excitement", 
+          "excitement", 
+          "excitement", 
+          "excitement", 
+          "excitement", 
+          "excitement", 
+          "excitement", 
+          "excitement", 
+          "excitement", 
+          "excitement", 
+          "excitement", 
+          "excitement", 
+          "excitement", 
+          "excitement", 
+          "overactivity", 
+          "overactivity", 
+          "excitement"
+        ]
+      }
+    }, 
+    {
+      "infliximab": {
+        "pred_indications": [
+          "embolisms", 
+          "embolisms", 
+          "embolisms", 
+          "bruxism", 
+          "bruxism", 
+          "embolisms", 
+          "embolisms", 
+          "wound", 
+          "wound", 
+          "wound", 
+          "wound", 
+          "wound", 
+          "wound", 
+          "wound", 
+          "wound", 
+          "wound", 
+          "wound", 
+          "wound", 
+          "albino", 
+          "sprained", 
+          "hypoalbuminemia", 
+          "hypoalbuminemia", 
+          "hypoalbuminemia", 
+          "hypoalbuminemia", 
+          "embolisms", 
+          "hyperhidrosis", 
+          "hyperhidrosis", 
+          "embolisms", 
+          "embolisms", 
+          "embolisms", 
+          "embolisms", 
+          "embolisms", 
+          "embolisms", 
+          "embolisms"
+        ]
+      }
+    }
+  ]
+}

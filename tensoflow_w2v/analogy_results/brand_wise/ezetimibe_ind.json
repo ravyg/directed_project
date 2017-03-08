@@ -1,0 +1,44 @@
+{
+  "ezetimibe": [
+    {
+      "zetia": {
+        "pred_indications": [
+          "floaters", 
+          "lymphocytosis", 
+          "dyspnea", 
+          "leukaemia", 
+          "bruxism", 
+          "hyperprolactinemia", 
+          "dyspnea", 
+          "alveolitis", 
+          "aggressive", 
+          "jaundice", 
+          "jaundice", 
+          "agoraphobia", 
+          "duodenitis", 
+          "bulging", 
+          "hemianopsia", 
+          "delirious", 
+          "leukaemia", 
+          "delirious", 
+          "leukaemia"
+        ]
+      }
+    }, 
+    {
+      "ezetimibe": {
+        "pred_indications": [
+          "ards", 
+          "gallstones", 
+          "warmth", 
+          "warmth", 
+          "gallstones", 
+          "gallstones", 
+          "gallstones", 
+          "melancholic", 
+          "moans"
+        ]
+      }
+    }
+  ]
+}

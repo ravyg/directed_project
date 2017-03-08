@@ -1,0 +1,36 @@
+{
+  "valsartan": [
+    {
+      "hydrochlorothiazide_and_valsartan": {
+        "pred_side_effects": [
+          "sneeze", 
+          "sneeze", 
+          "sneeze", 
+          "sneeze", 
+          "sneeze", 
+          "sneeze", 
+          "sneeze", 
+          "hematoma", 
+          "hematoma", 
+          "hematoma"
+        ]
+      }
+    }, 
+    {
+      "diovan_hct": {
+        "pred_side_effects": [
+          "sneeze", 
+          "sneeze", 
+          "sneeze", 
+          "sneeze", 
+          "sneeze", 
+          "sneeze", 
+          "sneeze", 
+          "hematoma", 
+          "hematoma", 
+          "hematoma"
+        ]
+      }
+    }
+  ]
+}

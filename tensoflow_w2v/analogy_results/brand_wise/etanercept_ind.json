@@ -1,0 +1,91 @@
+{
+  "etanercept": [
+    {
+      "enbrel": {
+        "pred_indications": [
+          "wind", 
+          "ulcerate", 
+          "wander", 
+          "boils", 
+          "boils", 
+          "boils", 
+          "boils", 
+          "boils", 
+          "boils", 
+          "boils", 
+          "boils", 
+          "boils", 
+          "boils", 
+          "boils", 
+          "stillbirths", 
+          "stillbirths", 
+          "anthrax", 
+          "ulcerate", 
+          "ulcerate", 
+          "ulcerate"
+        ]
+      }
+    }, 
+    {
+      "etanercept": {
+        "pred_indications": [
+          "auras", 
+          "injury", 
+          "embolisms", 
+          "injury", 
+          "embolisms", 
+          "injury", 
+          "embolisms", 
+          "hypokalemia", 
+          "nauseous", 
+          "hypokalemia", 
+          "embolisms", 
+          "embolisms", 
+          "dislocation", 
+          "retinopathy", 
+          "retinopathy", 
+          "hypotensive", 
+          "embolisms", 
+          "stillbirths", 
+          "stillbirths", 
+          "embolisms", 
+          "embolisms", 
+          "embolisms", 
+          "embolisms", 
+          "embolisms", 
+          "embolisms", 
+          "embolisms", 
+          "retinopathy", 
+          "retinopathy", 
+          "retinopathy"
+        ]
+      }
+    }, 
+    {
+      "enbrel": {
+        "pred_indications": [
+          "wind", 
+          "ulcerate", 
+          "wander", 
+          "boils", 
+          "boils", 
+          "boils", 
+          "boils", 
+          "boils", 
+          "boils", 
+          "boils", 
+          "boils", 
+          "boils", 
+          "boils", 
+          "boils", 
+          "stillbirths", 
+          "stillbirths", 
+          "anthrax", 
+          "ulcerate", 
+          "ulcerate", 
+          "ulcerate"
+        ]
+      }
+    }
+  ]
+}

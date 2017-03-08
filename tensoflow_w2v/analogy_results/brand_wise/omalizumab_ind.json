@@ -1,0 +1,77 @@
+{
+  "omalizumab": [
+    {
+      "xolair": {
+        "pred_indications": [
+          "sighing", 
+          "sneezing", 
+          "belching", 
+          "stillbirths", 
+          "stillbirths", 
+          "sneezing", 
+          "delirious", 
+          "delirious"
+        ]
+      }
+    }, 
+    {
+      "omalizumab": {
+        "pred_indications": [
+          "wart", 
+          "megacolon", 
+          "stutter", 
+          "candidosis", 
+          "candidosis", 
+          "candidosis", 
+          "candidosis", 
+          "candidosis", 
+          "candidosis", 
+          "candidosis", 
+          "candidosis", 
+          "candidosis", 
+          "candidosis", 
+          "candidosis", 
+          "candidosis", 
+          "hyperextension", 
+          "paining", 
+          "candidosis", 
+          "candidosis", 
+          "candidosis", 
+          "candidosis", 
+          "candidosis", 
+          "candidosis", 
+          "candidosis", 
+          "candidosis", 
+          "candidosis", 
+          "candidosis", 
+          "candidosis", 
+          "candidosis", 
+          "candidosis", 
+          "candidosis", 
+          "candidosis", 
+          "stillbirths", 
+          "warmth", 
+          "warmth", 
+          "stillbirths", 
+          "nauseous", 
+          "agoraphobia", 
+          "melancholic", 
+          "candidosis", 
+          "candidosis", 
+          "candidosis", 
+          "candidosis", 
+          "candidosis", 
+          "candidosis", 
+          "candidosis", 
+          "candidosis", 
+          "candidosis", 
+          "candidosis", 
+          "candidosis", 
+          "tuberculosis", 
+          "bulging", 
+          "candidosis"
+        ]
+      }
+    }
+  ]
+}

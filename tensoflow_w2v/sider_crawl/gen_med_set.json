@@ -1,0 +1,613 @@
+{
+  "omalizumab": [
+    "xolair", 
+    "omalizumab"
+  ], 
+  "fingolimod": [
+    "gilenya", 
+    "fingolimod"
+  ], 
+  "epinephrine": [
+    "epipen", 
+    "epinephrine", 
+    "adrenaclick", 
+    "adrenalin", 
+    "auvi_q", 
+    "twinject"
+  ], 
+  "abiraterone": [
+    "zytiga", 
+    "abiraterone"
+  ], 
+  "formoterol": [
+    "symbicort", 
+    "budesonide_and_formoterol"
+  ], 
+  "modafinil": [
+    "modafinil", 
+    "provigil"
+  ], 
+  "trastuzumab": [
+    "herceptin", 
+    "trastuzumab"
+  ], 
+  "ranibizumab": [
+    "lucentis", 
+    "ranibizumab"
+  ], 
+  "fentanyl": [
+    "fentanyl", 
+    "sublimaze"
+  ], 
+  "denosumab": [
+    "xgeva", 
+    "denosumab"
+  ], 
+  "dimethyl_fumarate": [
+    "tecfidera", 
+    "dimethyl_fumarate"
+  ], 
+  "paliperidone": [
+    "invega_sustenna", 
+    "paliperidone"
+  ], 
+  "capecitabine": [
+    "xeloda", 
+    "capecitabine"
+  ], 
+  "sevelamer": [
+    "renvela", 
+    "sevelamer", 
+    "renagel"
+  ], 
+  "ezetimibe": [
+    "zetia", 
+    "ezetimibe"
+  ], 
+  "insulin_aspart": [
+    "novolog", 
+    "insulin_aspart", 
+    "novolog"
+  ], 
+  "epoetin_alfa": [
+    "aranesp", 
+    "darbepoetin_alfa"
+  ], 
+  "celecoxib": [
+    "celebrex", 
+    "celecoxib"
+  ], 
+  "oseltamivir": [
+    "tamiflu", 
+    "oseltamivir"
+  ], 
+  "abatacept": [
+    "orencia", 
+    "abatacept"
+  ], 
+  "insulin_detemir": [
+    "levemir", 
+    "insulin_detemir"
+  ], 
+  "enoxaparin": [
+    "enoxaparin", 
+    "lovenox", 
+    "lovenox_hp", 
+    "clexane", 
+    "clexane_forte"
+  ], 
+  "raloxifene": [
+    "evista", 
+    "raloxifene"
+  ], 
+  "filgrastim": [
+    "neupogen", 
+    "filgrastim", 
+    "neupogen_singleject"
+  ], 
+  "oxycodone": [
+    "oxycontin", 
+    "oxycodone", 
+    "oxecta", 
+    "oxycontin", 
+    "oxyfast", 
+    "roxicodone"
+  ], 
+  "solifenacin": [
+    "vesicare", 
+    "solifenacin"
+  ], 
+  "naloxone": [
+    "suboxone", 
+    "buprenorphine_and_naloxone", 
+    "bunavail", 
+    "zubsolv"
+  ], 
+  "omega_3_polyunsaturated_fatty_acids": [
+    "lovaza", 
+    "omega_3_polyunsaturated_fatty_acids", 
+    "animi_3", 
+    "cardio_omega_benefits", 
+    "divista", 
+    "dry_eye_omega_omega_advantage", 
+    "omega_essentials", 
+    "sea_omega", 
+    "theratears_nutrition", 
+    "theromega", 
+    "vascazenbenefits", 
+    "epaoil", 
+    "fish_oil", 
+    "fish_oil_ultra", 
+    "flex_omega_benefits", 
+    "icar_prenatal_essential_omega_3", 
+    "lovaza", 
+    "maxepa", 
+    "maxitears_dry_eye_formula", 
+    "maxivision_omega_3_formula", 
+    "mi_omega_nf"
+  ], 
+  "valsartan": [
+    "hydrochlorothiazide_and_valsartan", 
+    "diovan_hct"
+  ], 
+  "imatinib": [
+    "gleevec", 
+    "imatinib"
+  ], 
+  "insulin_glargine": [
+    "lantus", 
+    "insulin_glargine"
+  ], 
+  "insulin_lispro": [
+    "humalog", 
+    "insulin_lispro", 
+    "humalog_kwikpen"
+  ], 
+  "cyclosporine_ophthalmic": [
+    "restasis", 
+    "cyclosporine_ophthalmic"
+  ], 
+  "sitagliptin": [
+    "januvia", 
+    "sitagliptin"
+  ], 
+  "niacin_nicotinic_acid_": [
+    "niaspan", 
+    "niacin_nicotinic_acid_", 
+    "b_3_50", 
+    "b3_500_gr", 
+    "niacin_sr", 
+    "niacor", 
+    "niaspan_er", 
+    "slo_niacin"
+  ], 
+  "albuterol_inhalation": [
+    "proair_hfa", 
+    "albuterol_inhalation", 
+    "accuneb", 
+    "proventil", 
+    "proventil_hfa", 
+    "relion_ventolin_hfa", 
+    "ventolin_hfa"
+  ], 
+  "omeprazole": [
+    "omeprazole", 
+    "first_omeprazole", 
+    "prilosec", 
+    "prilosec_otc", 
+    "zegerid"
+  ], 
+  "cinacalcet": [
+    "sensipar", 
+    "cinacalcet"
+  ], 
+  "methylphenidate": [
+    "methylphenidate", 
+    "concerta", 
+    "metadate_cd", 
+    "metadate_er", 
+    "methylin", 
+    "methylin_er", 
+    "quillivant_xr", 
+    "ritalin", 
+    "ritalin_la", 
+    "ritalin_sr"
+  ], 
+  "eszopiclone": [
+    "lunesta", 
+    "eszopiclone"
+  ], 
+  "raltegravir": [
+    "isentress", 
+    "raltegravir"
+  ], 
+  "hydrochlorothiazide": [
+    "hydrochlorothiazide_and_valsartan", 
+    "diovan_hct"
+  ], 
+  "etanercept": [
+    "enbrel", 
+    "etanercept", 
+    "enbrel"
+  ], 
+  "darbepoetin_alfa": [
+    "aranesp", 
+    "darbepoetin_alfa"
+  ], 
+  "adalimumab": [
+    "adalimumab", 
+    "humira"
+  ], 
+  "pemetrexed": [
+    "alimta", 
+    "pemetrexed"
+  ], 
+  "ipratropium": [
+    "combivent", 
+    "albuterol_and_ipratropium", 
+    "combivent_respimat", 
+    "duoneb"
+  ], 
+  "olmesartan": [
+    "benicar", 
+    "olmesartan"
+  ], 
+  "dexlansoprazole": [
+    "dexilant", 
+    "dexlansoprazole", 
+    "dexilant"
+  ], 
+  "fenofibrate": [
+    "fenofibrate", 
+    "fenofibrate", 
+    "antara", 
+    "fenoglide", 
+    "lipofen", 
+    "lofibra", 
+    "tricor", 
+    "triglide", 
+    "lipidil_micro", 
+    "dom_fenofibrate", 
+    "lipidil_supra", 
+    "lipidil_ez"
+  ], 
+  "efavirenz": [
+    "atripla", 
+    "efavirenz", 
+    "emtricitabine", 
+    "tenofovir"
+  ], 
+  "salmeterol": [
+    "advair_diskus", 
+    "fluticasone_and_salmeterol", 
+    "advair_diskus", 
+    "advair_hfa"
+  ], 
+  "dabigatran": [
+    "pradaxa", 
+    "dabigatran"
+  ], 
+  "duloxetine": [
+    "cymbalta", 
+    "duloxetine"
+  ], 
+  "testosterone_topical": [
+    "androgel", 
+    "testosterone_topical", 
+    "androderm", 
+    "androgel", 
+    "axiron", 
+    "first_testosterone", 
+    "fortesta", 
+    "testim", 
+    "vogelxo"
+  ], 
+  "doxycycline": [
+    "doxycycline", 
+    "acticlate", 
+    "adoxa", 
+    "alodox", 
+    "avidoxy", 
+    "doryx", 
+    "monodox", 
+    "morgidox", 
+    "nicazel_doxy_30", 
+    "ocudox", 
+    "oracea", 
+    "oraxyl", 
+    "vibramycin"
+  ], 
+  "albuterol": [
+    "ventolin_hfa", 
+    "albuterol_inhalation", 
+    "accuneb", 
+    "proair_hfa", 
+    "proventil", 
+    "proventil_hfa", 
+    "relion_ventolin_hfa", 
+    "ventolin_hfa"
+  ], 
+  "bevacizumab": [
+    "avastin", 
+    "bevacizumab"
+  ], 
+  "esomeprazole": [
+    "nexium", 
+    "esomeprazole", 
+    "esomeprazole_strontium", 
+    "nexium", 
+    "nexium_24hr"
+  ], 
+  "fluticasone_inhalation": [
+    "flovent_hfa", 
+    "fluticasone_inhalation", 
+    "flovent_diskus", 
+    "flovent_hfa"
+  ], 
+  "interferon_beta_1b": [
+    "betaseron", 
+    "interferon_beta_1b", 
+    "extavia"
+  ], 
+  "interferon_beta_1a": [
+    "avonex", 
+    "interferon_beta_1a", 
+    "vonex", 
+    "rebif", 
+    "rebif_rebidose"
+  ], 
+  "pregabalin": [
+    "lyrica", 
+    "pregabalin"
+  ], 
+  "metformin": [
+    "janumet", 
+    "metformin_and_sitagliptin", 
+    "janumet_xr"
+  ], 
+  "tenofovir": [
+    "truvada", 
+    "emtricitabine_and_tenofovir"
+  ], 
+  "dextroamphetamine": [
+    "amphetamine_dextroamphetamine", 
+    "adderall"
+  ], 
+  "levothyroxine": [
+    "synthroid", 
+    "levothyroxine", 
+    "levothroid", 
+    "levoxyl", 
+    "tirosint", 
+    "unithroid"
+  ], 
+  "rituximab": [
+    "rituxan", 
+    "rituximab"
+  ], 
+  "pegfilgrastim": [
+    "neulasta", 
+    "pegfilgrastim"
+  ], 
+  "buprenorphine": [
+    "suboxone", 
+    "buprenorphine_and_naloxone", 
+    "bunavail", 
+    "zubsolv"
+  ], 
+  "liraglutide": [
+    "victoza", 
+    "liraglutide"
+  ], 
+  "pneumococcal_13_valent_conjugate_vaccine": [
+    "prevnar_13", 
+    "pneumococcal_13_valent_conjugate_vaccine"
+  ], 
+  "everolimus": [
+    "afinitor", 
+    "everolimus", 
+    "afinitor_disperz"
+  ], 
+  "sildenafil": [
+    "viagra", 
+    "sildenafil", 
+    "revatio"
+  ], 
+  "rosuvastatin": [
+    "crestor", 
+    "rosuvastatin", 
+    "crestor"
+  ], 
+  "palivizumab": [
+    "synagis", 
+    "palivizumab"
+  ], 
+  "aripiprazole": [
+    "abilify", 
+    "aripiprazole"
+  ], 
+  "darunavir": [
+    "prezista", 
+    "darunavir", 
+    "prezista"
+  ], 
+  "rivaroxaban": [
+    "xarelto", 
+    "rivaroxaban"
+  ], 
+  "metoprolol": [
+    "metoprolol", 
+    "lopressor", 
+    "metoprolol_succinate_er", 
+    "metoprolol_tartrate", 
+    "toprol_xl"
+  ], 
+  "divalproex_sodium": [
+    "divalproex_sodium", 
+    "depakote", 
+    "depakote_er", 
+    "depakote_sprinkles"
+  ], 
+  "quetiapine": [
+    "seroquel_xr", 
+    "quetiapine", 
+    "seroquel"
+  ], 
+  "atorvastatin": [
+    "atorvastatin", 
+    "lipitor"
+  ], 
+  "tadalafil": [
+    "cialis", 
+    "tadalafil", 
+    "adcirca"
+  ], 
+  "ustekinumab": [
+    "stelara", 
+    "ustekinumab"
+  ], 
+  "lisdexamfetamine": [
+    "vyvanse", 
+    "lisdexamfetamine"
+  ], 
+  "lidocaine_topical": [
+    "lidocaine", 
+    "lidocaine_topical", 
+    "anecream", 
+    "anecream_with_tegaderm", 
+    "anestacon", 
+    "bactine", 
+    "lidamantle", 
+    "lidocream", 
+    "lidoderm", 
+    "lidosense5", 
+    "lmx_4", 
+    "lmx_4_with_tegaderm", 
+    "lmx_5", 
+    "medi_quik_spray", 
+    "senatec", 
+    "xylocaine_jelly", 
+    "xylocaine_topical", 
+    "zilactin_l"
+  ], 
+  "fluticasone": [
+    "flovent_hfa", 
+    "fluticasone_inhalation", 
+    "flovent_diskus", 
+    "flovent_hfa"
+  ], 
+  "infliximab": [
+    "remicade", 
+    "infliximab"
+  ], 
+  "acetaminophen": [
+    "acetaminophen_hydrocodone", 
+    "anexsia", 
+    "dolorex_forte", 
+    "hycet", 
+    "liquicet", 
+    "lorcet", 
+    "lortab", 
+    "maxidone", 
+    "norco", 
+    "polygesic", 
+    "stagesic", 
+    "vicodin", 
+    "xodol", 
+    "zamicet", 
+    "zydone"
+  ], 
+  "simvastatin": [
+    "vytorin", 
+    "ezetimibe_and_simvastatin"
+  ], 
+  "atazanavir": [
+    "reyataz", 
+    "atazanavir"
+  ], 
+  "vonex": [
+    "rebif", 
+    "interferon_beta_1a", 
+    "vonex", 
+    "avonex", 
+    "rebif_rebidose"
+  ], 
+  "budesonide": [
+    "symbicort", 
+    "budesonide_and_formoterol"
+  ], 
+  "emtricitabine": [
+    "truvada", 
+    "emtricitabine_and_tenofovir"
+  ], 
+  "glatiramer": [
+    "copaxone", 
+    "glatiramer", 
+    "copaxone"
+  ], 
+  "telaprevir": [
+    "incivek", 
+    "telaprevir"
+  ], 
+  "lidocaine": [
+    "lidocaine", 
+    "lidocaine_topical", 
+    "anecream", 
+    "anecream_with_tegaderm", 
+    "anestacon", 
+    "bactine", 
+    "lidamantle", 
+    "lidocream", 
+    "lidoderm", 
+    "lidosense5", 
+    "lmx_4", 
+    "lmx_4_with_tegaderm", 
+    "lmx_5", 
+    "medi_quik_spray", 
+    "senatec", 
+    "xylocaine_jelly", 
+    "xylocaine_topical", 
+    "zilactin_l"
+  ], 
+  "amphetamine": [
+    "amphetamine_dextroamphetamine", 
+    "adderall"
+  ], 
+  "influenza_virus_vaccine": [
+    "fluzone", 
+    "influenza_virus_vaccine", 
+    "afluria", 
+    "fluarix", 
+    "flublok", 
+    "flucelvax", 
+    "flulaval", 
+    "fluvirin", 
+    "fluzone"
+  ], 
+  "memantine": [
+    "namenda", 
+    "memantine", 
+    "namenda_xr"
+  ], 
+  "hydrocodone": [
+    "acetaminophen_hydrocodone", 
+    "anexsia", 
+    "dolorex_forte", 
+    "hycet", 
+    "liquicet", 
+    "lorcet", 
+    "lortab", 
+    "maxidone", 
+    "norco", 
+    "polygesic", 
+    "stagesic", 
+    "vicodin", 
+    "xodol", 
+    "zamicet", 
+    "zydone"
+  ], 
+  "mometasone_nasal": [
+    "nasonex", 
+    "mometasone_nasal"
+  ]
+}

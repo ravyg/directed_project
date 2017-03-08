@@ -1,0 +1,34 @@
+{
+  "cinacalcet": [
+    {
+      "sensipar": {
+        "pred_indications": [
+          "wheezy", 
+          "alveolitis"
+        ]
+      }
+    }, 
+    {
+      "cinacalcet": {
+        "pred_indications": [
+          "hyponatremia", 
+          "tumors", 
+          "ailment", 
+          "ailment", 
+          "ailment", 
+          "ailment", 
+          "tumors", 
+          "tumors", 
+          "hypercarbia", 
+          "ailment", 
+          "ailment", 
+          "ailment", 
+          "ailment", 
+          "ailment", 
+          "ailment", 
+          "ailment"
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "raloxifene": [
+    {
+      "evista": {
+        "pred_indications": [
+          "whiplash", 
+          "striae", 
+          "whiplash", 
+          "boils", 
+          "boils", 
+          "progesterone", 
+          "boils", 
+          "boils", 
+          "striae", 
+          "flicker", 
+          "hyperhidrosis", 
+          "hyperhidrosis", 
+          "embolism"
+        ]
+      }
+    }, 
+    {
+      "raloxifene": {
+        "pred_indications": [
+          "allodynia", 
+          "neuropathi", 
+          "distress", 
+          "hypothyroid", 
+          "hypothyroid", 
+          "hypothyroid", 
+          "allodynia"
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "glatiramer": [
+    {
+      "copaxone": {
+        "pred_indications": [
+          "choke", 
+          "stiffness", 
+          "melancholic"
+        ]
+      }
+    }, 
+    {
+      "glatiramer": {
+        "pred_indications": [
+          "tias", 
+          "desmoplasia", 
+          "hypertonia", 
+          "ttps", 
+          "tias", 
+          "bruxism", 
+          "impetigo", 
+          "occlusion", 
+          "pancreatitis", 
+          "desmoplasia", 
+          "pancreatitis", 
+          "pancreatitis", 
+          "pancreatitis", 
+          "pancreatitis", 
+          "pancreatitis", 
+          "pancreatitis", 
+          "pancreatitis", 
+          "pancreatitis", 
+          "pancreatitis", 
+          "pancreatitis", 
+          "pancreatitis", 
+          "pancreatitis", 
+          "pancreatitis", 
+          "pancreatitis", 
+          "cystitis", 
+          "cystitis", 
+          "impetigo", 
+          "melancholic", 
+          "desmoplasia", 
+          "pancreatitis", 
+          "pancreatitis", 
+          "pancreatitis", 
+          "occlusion", 
+          "gasps"
+        ]
+      }
+    }, 
+    {
+      "copaxone": {
+        "pred_indications": [
+          "choke", 
+          "stiffness", 
+          "melancholic"
+        ]
+      }
+    }
+  ]
+}

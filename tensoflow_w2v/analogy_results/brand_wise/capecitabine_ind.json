@@ -1,0 +1,34 @@
+{
+  "capecitabine": [
+    {
+      "xeloda": {
+        "pred_indications": [
+          "thrombocytopaenia", 
+          "epilepsy", 
+          "stillbirths", 
+          "jaundice", 
+          "jaundice"
+        ]
+      }
+    }, 
+    {
+      "capecitabine": {
+        "pred_indications": [
+          "photosensitivity", 
+          "photosensitivity", 
+          "photosensitivity", 
+          "photosensitivity", 
+          "photosensitivity", 
+          "photosensitivity", 
+          "photosensitivity", 
+          "photosensitivity", 
+          "photosensitivity", 
+          "photosensitivity", 
+          "photosensitivity", 
+          "agoraphobia", 
+          "brash"
+        ]
+      }
+    }
+  ]
+}

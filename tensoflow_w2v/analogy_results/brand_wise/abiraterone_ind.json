@@ -1,0 +1,27 @@
+{
+  "abiraterone": [
+    {
+      "zytiga": {
+        "pred_indications": [
+          "lymphocytosis", 
+          "aids", 
+          "burp", 
+          "stillbirths", 
+          "stillbirths"
+        ]
+      }
+    }, 
+    {
+      "abiraterone": {
+        "pred_indications": [
+          "purpura", 
+          "thyroiditis", 
+          "thyroiditis", 
+          "thyroiditis", 
+          "agoraphobia", 
+          "pruritis"
+        ]
+      }
+    }
+  ]
+}

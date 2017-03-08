@@ -1,0 +1,58 @@
+{
+  "insulin_lispro": [
+    {
+      "humalog": {
+        "pred_indications": [
+          "shakiness", 
+          "sneezing", 
+          "fractured", 
+          "blister", 
+          "blister", 
+          "blister", 
+          "blister", 
+          "melancholic", 
+          "sneezing", 
+          "gasps"
+        ]
+      }
+    }, 
+    {
+      "insulin_lispro": {
+        "pred_indications": [
+          "stillbirths", 
+          "stillbirths", 
+          "stillbirths", 
+          "stillbirths", 
+          "stillbirths", 
+          "stillbirths", 
+          "stillbirths", 
+          "stillbirths", 
+          "stillbirths", 
+          "stillbirths", 
+          "stillbirths", 
+          "stillbirths", 
+          "stillbirths"
+        ]
+      }
+    }, 
+    {
+      "humalog_kwikpen": {
+        "pred_indications": [
+          "stillbirths", 
+          "stillbirths", 
+          "stillbirths", 
+          "stillbirths", 
+          "stillbirths", 
+          "stillbirths", 
+          "stillbirths", 
+          "stillbirths", 
+          "stillbirths", 
+          "stillbirths", 
+          "stillbirths", 
+          "stillbirths", 
+          "stillbirths"
+        ]
+      }
+    }
+  ]
+}

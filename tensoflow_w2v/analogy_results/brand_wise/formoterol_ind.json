@@ -1,0 +1,52 @@
+{
+  "formoterol": [
+    {
+      "symbicort": {
+        "pred_indications": [
+          "arousing", 
+          "gant", 
+          "myoglobinuria", 
+          "bruxism", 
+          "bruxism", 
+          "bruxism", 
+          "bruxism", 
+          "bruxism", 
+          "bruxism", 
+          "bruxism", 
+          "palpitations", 
+          "rash", 
+          "rickets", 
+          "psoriasi", 
+          "rickets", 
+          "rickets", 
+          "rickets", 
+          "rickets", 
+          "rickets", 
+          "rickets", 
+          "bruxism", 
+          "rickets", 
+          "hyperextension", 
+          "bruxism"
+        ]
+      }
+    }, 
+    {
+      "budesonide_and_formoterol": {
+        "pred_indications": [
+          "stillbirths", 
+          "stillbirths", 
+          "stillbirths", 
+          "stillbirths", 
+          "stillbirths", 
+          "stillbirths", 
+          "stillbirths", 
+          "stillbirths", 
+          "stillbirths", 
+          "stillbirths", 
+          "stillbirths", 
+          "stillbirths"
+        ]
+      }
+    }
+  ]
+}

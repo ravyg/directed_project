@@ -1,0 +1,45 @@
+{
+  "sitagliptin": [
+    {
+      "januvia": {
+        "pred_indications": [
+          "myoglobinuria", 
+          "granulomas", 
+          "methaemoglobinaemia", 
+          "methaemoglobinaemia", 
+          "methaemoglobinaemia"
+        ]
+      }
+    }, 
+    {
+      "sitagliptin": {
+        "pred_indications": [
+          "osteomyelitis", 
+          "injury", 
+          "embolisms", 
+          "injury", 
+          "embolisms", 
+          "injury", 
+          "embolisms", 
+          "stutter", 
+          "stutter", 
+          "embolisms", 
+          "embolisms", 
+          "cough", 
+          "constipate", 
+          "embolisms", 
+          "twitched", 
+          "twitched", 
+          "embolisms", 
+          "embolisms", 
+          "agoraphobia", 
+          "embolisms", 
+          "embolisms", 
+          "embolisms", 
+          "embolisms", 
+          "embolisms"
+        ]
+      }
+    }
+  ]
+}

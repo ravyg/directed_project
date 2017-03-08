@@ -1,0 +1,41 @@
+{
+  "filgrastim": [
+    {
+      "neupogen": {
+        "pred_indications": [
+          "drunk"
+        ]
+      }
+    }, 
+    {
+      "filgrastim": {
+        "pred_indications": [
+          "lymphocytosis", 
+          "otalgia", 
+          "numbness", 
+          "stillbirths", 
+          "stillbirths"
+        ]
+      }
+    }, 
+    {
+      "neupogen_singleject": {
+        "pred_indications": [
+          "stillbirths", 
+          "stillbirths", 
+          "stillbirths", 
+          "stillbirths", 
+          "stillbirths", 
+          "stillbirths", 
+          "stillbirths", 
+          "stillbirths", 
+          "stillbirths", 
+          "stillbirths", 
+          "stillbirths", 
+          "stillbirths", 
+          "stillbirths"
+        ]
+      }
+    }
+  ]
+}

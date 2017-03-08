@@ -1,0 +1,53 @@
+{
+  "solifenacin": [
+    {
+      "vesicare": {
+        "pred_indications": [
+          "scratch", 
+          "scratch", 
+          "scratch", 
+          "infertility", 
+          "infertility", 
+          "infertility", 
+          "scratch", 
+          "scratch", 
+          "scratch", 
+          "scratch", 
+          "scratch", 
+          "scratch", 
+          "flutters", 
+          "scratch", 
+          "scratch", 
+          "scratch", 
+          "scratch", 
+          "scratch", 
+          "scratch", 
+          "scratch", 
+          "scratch", 
+          "scratch", 
+          "scratch", 
+          "scratch", 
+          "scratch", 
+          "scratch", 
+          "scratch", 
+          "scratch"
+        ]
+      }
+    }, 
+    {
+      "solifenacin": {
+        "pred_indications": [
+          "petechiae", 
+          "stutter", 
+          "hyperextension", 
+          "otalgia", 
+          "encephalitis", 
+          "chemosis", 
+          "hyperextension", 
+          "chemosis", 
+          "vasculitis"
+        ]
+      }
+    }
+  ]
+}

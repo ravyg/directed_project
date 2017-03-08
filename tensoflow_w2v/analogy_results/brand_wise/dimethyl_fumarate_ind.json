@@ -1,0 +1,46 @@
+{
+  "dimethyl_fumarate": [
+    {
+      "tecfidera": {
+        "pred_indications": [
+          "haemorrhages", 
+          "lymphocytosis", 
+          "photosensitivity", 
+          "photosensitivity", 
+          "photosensitivity", 
+          "photosensitivity", 
+          "photosensitivity", 
+          "photosensitivity", 
+          "photosensitivity", 
+          "photosensitivity", 
+          "photosensitivity", 
+          "photosensitivity", 
+          "photosensitivity", 
+          "coughs", 
+          "hyperextension", 
+          "bulging", 
+          "gasps"
+        ]
+      }
+    }, 
+    {
+      "dimethyl_fumarate": {
+        "pred_indications": [
+          "stillbirths", 
+          "stillbirths", 
+          "stillbirths", 
+          "stillbirths", 
+          "stillbirths", 
+          "stillbirths", 
+          "stillbirths", 
+          "stillbirths", 
+          "stillbirths", 
+          "stillbirths", 
+          "stillbirths", 
+          "stillbirths", 
+          "stillbirths"
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "cyclosporine_ophthalmic": [
+    {
+      "restasis": {
+        "pred_indications": [
+          "auras", 
+          "menopause", 
+          "agoraphobia"
+        ]
+      }
+    }, 
+    {
+      "cyclosporine_ophthalmic": {
+        "pred_indications": [
+          "stillbirths", 
+          "stillbirths", 
+          "stillbirths", 
+          "stillbirths", 
+          "stillbirths", 
+          "stillbirths", 
+          "stillbirths", 
+          "stillbirths", 
+          "stillbirths", 
+          "stillbirths", 
+          "stillbirths", 
+          "stillbirths", 
+          "stillbirths"
+        ]
+      }
+    }
+  ]
+}

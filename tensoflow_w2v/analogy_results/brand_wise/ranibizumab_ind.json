@@ -1,0 +1,45 @@
+{
+  "ranibizumab": [
+    {
+      "lucentis": {
+        "pred_indications": [
+          "gasps", 
+          "wind", 
+          "gasps", 
+          "gasps", 
+          "boils", 
+          "boils", 
+          "gasps", 
+          "gasps", 
+          "diarrhea", 
+          "diarrhea", 
+          "dizzies", 
+          "agoraphobia", 
+          "staring", 
+          "gasps", 
+          "gasps", 
+          "gasps", 
+          "gasps"
+        ]
+      }
+    }, 
+    {
+      "ranibizumab": {
+        "pred_indications": [
+          "hyperextension", 
+          "pseudotumor", 
+          "purpura", 
+          "pats", 
+          "pats", 
+          "hyperextension", 
+          "hyperextension", 
+          "hyperextension", 
+          "hyperextension", 
+          "hyperextension", 
+          "stillbirths", 
+          "cachectic"
+        ]
+      }
+    }
+  ]
+}
