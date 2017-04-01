@@ -587,8 +587,10 @@ def get_se_ind_analogy(model):
   all_known_effects_file = open("se_indi_chv.csv", 'r')
   all_key_effects = csv.reader(all_known_effects_file, delimiter=',')
   all_effects = {}
+  
   for row in all_key_effects:
       all_effects[row[1]] = row[0]
+  all_known_effects_file.close()
 
   with open('sider_crawl/gen_med_set.json') as med_sets:    
       med_sets_dict = json.load(med_sets)
