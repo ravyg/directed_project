@@ -27,8 +27,11 @@
     "modafinil", 
     "provigil"
   ], 
-  "trastuzumab": [
-    "herceptin", 
+  "ofatumumab": [
+    "herceptin",
+    "ofatumumab",
+    "rituxan", 
+    "rituximab", 
     "trastuzumab"
   ], 
   "ranibizumab": [
@@ -69,9 +72,12 @@
     "insulin_aspart", 
     "novolog"
   ], 
-  "epoetin_alfa": [
+  "2_hydroxysuccinaldehyde": [
     "aranesp", 
-    "darbepoetin_alfa"
+    "darbepoetin_alfa",
+    "2-hydroxysuccinaldehyde",
+    "epoetin_alfa"
+
   ], 
   "celecoxib": [
     "celebrex", 
@@ -100,9 +106,10 @@
     "evista", 
     "raloxifene"
   ], 
-  "filgrastim": [
+  "gamma_aminobutyric_acid": [
     "neupogen", 
-    "filgrastim", 
+    "filgrastim",
+    "gamma_aminobutyric_acid", 
     "neupogen_singleject"
   ], 
   "oxycodone": [
@@ -123,7 +130,7 @@
     "bunavail", 
     "zubsolv"
   ], 
-  "omega_3_polyunsaturated_fatty_acids": [
+  "lovaza": [
     "lovaza", 
     "omega_3_polyunsaturated_fatty_acids", 
     "animi_3", 
@@ -163,15 +170,16 @@
     "insulin_lispro", 
     "humalog_kwikpen"
   ], 
-  "cyclosporine_ophthalmic": [
-    "restasis", 
+  "v_1784": [
+    "restasis",
+    "v_1784",
     "cyclosporine_ophthalmic"
   ], 
   "sitagliptin": [
     "januvia", 
     "sitagliptin"
   ], 
-  "niacin_nicotinic_acid_": [
+  "niacin": [
     "niaspan", 
     "niacin_nicotinic_acid_", 
     "b_3_50", 
@@ -179,12 +187,14 @@
     "niacin_sr", 
     "niacor", 
     "niaspan_er", 
+    "niacin",
     "slo_niacin"
   ], 
-  "albuterol_inhalation": [
+  "salbutamol": [
     "proair_hfa", 
     "albuterol_inhalation", 
-    "accuneb", 
+    "accuneb",
+    "salbutamol",
     "proventil", 
     "proventil_hfa", 
     "relion_ventolin_hfa", 
@@ -229,11 +239,7 @@
     "enbrel", 
     "etanercept", 
     "enbrel"
-  ], 
-  "darbepoetin_alfa": [
-    "aranesp", 
-    "darbepoetin_alfa"
-  ], 
+  ],  
   "adalimumab": [
     "adalimumab", 
     "humira"
@@ -291,12 +297,13 @@
     "cymbalta", 
     "duloxetine"
   ], 
-  "testosterone_topical": [
+  "testosterone": [
     "androgel", 
     "testosterone_topical", 
     "androderm", 
     "androgel", 
-    "axiron", 
+    "axiron",
+    "testosterone",
     "first_testosterone", 
     "fortesta", 
     "testim", 
@@ -331,30 +338,24 @@
     "avastin", 
     "bevacizumab"
   ], 
-  "esomeprazole": [
+  "omeprazole": [
     "nexium", 
     "esomeprazole", 
     "esomeprazole_strontium", 
     "nexium", 
+    "omeprazole",
     "nexium_24hr"
-  ], 
-  "fluticasone_inhalation": [
-    "flovent_hfa", 
-    "fluticasone_inhalation", 
-    "flovent_diskus", 
-    "flovent_hfa"
-  ], 
-  "interferon_beta_1b": [
+  ],  
+  "k779": [
     "betaseron", 
-    "interferon_beta_1b", 
-    "extavia"
-  ], 
-  "interferon_beta_1a": [
+    "interferon_beta_1b",
+    "k779",
     "avonex", 
     "interferon_beta_1a", 
     "vonex", 
     "rebif", 
-    "rebif_rebidose"
+    "rebif_rebidose",
+    "extavia"
   ], 
   "pregabalin": [
     "lyrica", 
@@ -380,11 +381,7 @@
     "levoxyl", 
     "tirosint", 
     "unithroid"
-  ], 
-  "rituximab": [
-    "rituxan", 
-    "rituximab"
-  ], 
+  ],  
   "pegfilgrastim": [
     "neulasta", 
     "pegfilgrastim"
@@ -470,7 +467,7 @@
     "vyvanse", 
     "lisdexamfetamine"
   ], 
-  "lidocaine_topical": [
+  "lidocaine": [
     "lidocaine", 
     "lidocaine_topical", 
     "anecream", 
@@ -540,8 +537,9 @@
     "truvada", 
     "emtricitabine_and_tenofovir"
   ], 
-  "glatiramer": [
-    "copaxone", 
+  "copolymer_1": [
+    "copaxone",
+    "copolymer_1", 
     "glatiramer", 
     "copaxone"
   ], 
@@ -606,8 +604,9 @@
     "zamicet", 
     "zydone"
   ], 
-  "mometasone_nasal": [
+  "mometasone_furoate": [
     "nasonex", 
+    "mometasone_furoate",
     "mometasone_nasal"
   ]
 }

@@ -1,19 +1,19 @@
 solifenacin
 omeprazole
 fingolimod
-V 1784
+cyclosporine ophthalmic
 hydrochlorothiazide
 valsartan
-Copolymer 1
+glatiramer
 ezetimibe
 simvastatin
 telaprevir
-Ofatumumab
+trastuzumab
 pneumococcal 13-valent conjugate vaccine
 ezetimibe
 aripiprazole
-Salbutamol
-k779
+albuterol inhalation
+interferon beta-1a
 methylphenidate
 darunavir
 sildenafil
@@ -28,17 +28,21 @@ sitagliptin
 dabigatran
 influenza virus vaccine
 celecoxib
+lidocaine topical
 insulin aspart
 emtricitabine
 tenofovir
+interferon beta-1b
 pregabalin
 lidocaine
+rituximab
 duloxetine
 fenofibrate
-Gamma-aminobutyric acid
+filgrastim
 denosumab
 imatinib
 doxycycline
+darbepoetin alfa
 rosuvastatin
 insulin glargine
 divalproex sodium
@@ -52,16 +56,17 @@ budesonide
 formoterol
 levothyroxine
 liraglutide
-2-hydroxysuccinaldehyde
+epoetin alfa
 bevacizumab
 tenofovir
 etanercept
-Testosterone
+testosterone topical
 sevelamer
 insulin lispro
+vonex
 raloxifene
 ustekinumab
-Niacin
+niacin (nicotinic acid)
 abiraterone
 eszopiclone
 palivizumab
@@ -71,8 +76,9 @@ fluticasone
 salmeterol
 amphetamine
 dextroamphetamine
+fluticasone inhalation
 cinacalcet
-Mometasone furoate
+mometasone nasal
 tadalafil
 oxycodone
 abatacept
@@ -83,7 +89,7 @@ albuterol
 ipratropium
 budesonide
 paliperidone
-omeprazole
+esomeprazole
 modafinil
 omalizumab
 acetaminophen
@@ -99,4 +105,4 @@ epinephrine
 buprenorphine
 naloxone
 insulin detemir
-Lovaza
+omega-3 polyunsaturated fatty acids

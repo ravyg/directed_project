@@ -5,27 +5,24 @@ Advair Diskus,fluticasone and salmeterol,Advair Diskus,Advair HFA
 Afinitor,everolimus,Afinitor Disperz
 Alimta,pemetrexed
 amphetamine/dextroamphetamine,Adderall
-AndroGel,testosterone topical,Androderm,AndroGel,Axiron,FIRST-Testosterone,Fortesta,Testim,Vogelxo
-Aranesp,darbepoetin alfa
+Testosterone,AndroGel,testosterone topical,Androderm,AndroGel,Axiron,FIRST-Testosterone,Fortesta,Testim,Vogelxo
 atorvastatin,Lipitor
 Atripla,efavirenz,emtricitabine,tenofovir
 Avastin,bevacizumab
-Avonex,interferon beta-1a,vonex,Rebif,Rebif Rebidose
 Benicar,olmesartan
 Benicar HCT
-Betaseron,interferon beta-1b,Extavia
 budesonide,Entocort EC,Uceris
 Celebrex,celecoxib
 Cialis,tadalafil,Adcirca
 Combivent,albuterol and ipratropium,Combivent Respimat,DuoNeb
-Copaxone,glatiramer,Copaxone
+Copolymer 1,Copaxone,glatiramer,Copaxone
 Crestor,rosuvastatin,Crestor
 Cymbalta,duloxetine
 Dexilant,dexlansoprazole,Dexilant
 Diovan HCT,hydrochlorothiazide and valsartan,Diovan HCT
 divalproex sodium,Depakote,Depakote ER,Depakote Sprinkles
 doxycycline,Acticlate,Adoxa,Alodox,Avidoxy,Doryx,Monodox,Morgidox,NicAzel Doxy 30,Ocudox,Oracea,Oraxyl,Vibramycin
-Enbrel,etanercept,Enbrel
+Enbrel,etanercept
 enoxaparin,Lovenox,Lovenox HP,Clexane,Clexane Forte
 EpiPen,epinephrine,Adrenaclick,Adrenalin,Auvi-Q,Twinject
 Epogen,epoetin alfa,Procrit
@@ -36,7 +33,7 @@ Flovent HFA,fluticasone inhalation,Flovent Diskus,Flovent HFA
 Fluzone,influenza virus vaccine,Afluria,Fluarix,Flublok,Flucelvax,FluLaval,Fluvirin,Fluzone
 Gilenya,fingolimod
 Gleevec,imatinib
-Herceptin,trastuzumab
+Ofatumumab,Herceptin,trastuzumab,Rituxan,rituximab
 Humalog,insulin lispro,HumaLOG KwikPen
 adalimumab,Humira
 hydrochlorothiazide and valsartan,Diovan HCT
@@ -58,11 +55,11 @@ methylphenidate,Concerta,Metadate CD,Metadate ER,Methylin,Methylin ER,Quillivant
 metoprolol,Lopressor,Metoprolol Succinate ER,Metoprolol Tartrate,Toprol-XL
 modafinil,Provigil
 Namenda,memantine,Namenda XR
-Nasonex,mometasone nasal
+Mometasone furoate,Nasonex,mometasone nasal
 Neulasta,pegfilgrastim
-Neupogen,filgrastim,Neupogen SingleJect
-Nexium,esomeprazole,Esomeprazole Strontium,NexIUM,Nexium 24HR
-Niaspan,niacin (nicotinic acid),B-3-50,B3-500-Gr,Niacin SR,Niacor,Niaspan ER,Slo-Niacin
+Gamma-aminobutyric acid,Neupogen,filgrastim,Neupogen SingleJect
+Omeprazole,Nexium,esomeprazole,Esomeprazole Strontium,NexIUM,Nexium 24HR
+Niacin,Niaspan,niacin (nicotinic acid),B-3-50,B3-500-Gr,Niacin SR,Niacor,Niaspan ER,Slo-Niacin
 Novolog,insulin aspart,NovoLOG
 omeprazole,FIRST Omeprazole,PriLOSEC,PriLOSEC OTC,Zegerid
 Orencia,abatacept
@@ -70,14 +67,13 @@ OxyContin,oxycodone,Oxecta,OxyCONTIN,Oxyfast,Roxicodone
 Pradaxa,dabigatran
 Prevnar 13,pneumococcal 13-valent conjugate vaccine
 Prezista,darunavir,Prezista
-ProAir HFA,albuterol inhalation,Accuneb,Proventil,Proventil HFA,ReliOn Ventolin HFA,Ventolin HFA
-Procrit	,epoetin alfa,Epogen
-Rebif,interferon beta-1a,vonex,Avonex,Rebif Rebidose
+Salbutamol,ProAir HFA,albuterol inhalation,Accuneb,Proventil,Proventil HFA,ReliOn Ventolin HFA,Ventolin HFA
+2-hydroxysuccinaldehyde,Procrit,epoetin alfa,Epogen
+k779,Rebif,interferon beta-1a,vonex,Avonex,Rebif Rebidose,Betaseron,interferon beta-1b,Extavia
 Remicade,infliximab
 Renvela,sevelamer,Renagel
-Restasis,cyclosporine ophthalmic
+V 1784, Restasis,cyclosporine ophthalmic
 Reyataz,atazanavir
-Rituxan,rituximab
 Sensipar,cinacalcet
 Seroquel XR,quetiapine,SEROquel
 Spiriva
