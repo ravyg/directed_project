@@ -13,11 +13,12 @@ The key ops used are:
 * GradientDescentOptimizer for optimizing the loss.
 * skipgram custom op that does input processing.
 * Use commands:
-python word2vec_model_loading_v2.py --train_data=cleaned_data/s3_22m_train_data.txt --eval_data=questions_words_med.txt --save_path=./output_s3/run1/
-python word2vec_model_loading_v2.py --train_data=cleaned_data/s3_22m_train_data.txt --eval_data=questions_words_med.txt --save_path=./output_s3/run1/ --use=True --interactive=True
+python word2vec_model_loading_v2.py --train_data=cleaned_data/s3_22m_train_data.txt --eval_data=questions_words_med.txt --save_path=./results/run1/
+python word2vec_model_loading_v2.py --train_data=cleaned_data/s3_22m_train_data.txt --eval_data=questions_words_med.txt --save_path=./results/run1/ --use=True --interactive=True
 
+python word2vec_model_loading_v2.py --train_data=cleaned_data/only_effs-norm1-phrase1.txt --eval_data=questions_words_med.txt --save_path=./results/only_effs/model/
 
-
+python word2vec_model_loading_v2.py --train_data=cleaned_data/only_effs-norm1-phrase1.txt --eval_data=questions_words_med.txt --save_path=./results/only_effs/model/ --use=True --interactive=True
 
 """
 from __future__ import print_function
@@ -47,19 +48,19 @@ flags.DEFINE_string(
     "embedding 2 - embedding 1 + embedding 3 should be close "
     "to embedding 4."
     "E.g. https://word2vec.googlecode.com/svn/trunk/questions-words.txt.")
-flags.DEFINE_integer("embedding_size", 200, "The embedding dimension size.")
+flags.DEFINE_integer("embedding_size", 300, "The embedding dimension size.")
 # flags.DEFINE_integer(
 #     "epochs_to_train", 15,
 #     "Number of epochs to train. Each epoch processes the training data once "
 #     "completely.")
 flags.DEFINE_integer(
-    "epochs_to_train", 16,
+    "epochs_to_train", 10,
     "Number of epochs to train. Each epoch processes the training data once "
     "completely.")
 flags.DEFINE_float("learning_rate", 0.2, "Initial learning rate.")
 flags.DEFINE_integer("num_neg_samples", 100,
                      "Negative samples per training example.")
-flags.DEFINE_integer("batch_size", 16,
+flags.DEFINE_integer("batch_size", 64,
                      "Number of training examples processed per step "
                      "(size of a minibatch).")
 # flags.DEFINE_integer("batch_size", 512,
@@ -67,7 +68,7 @@ flags.DEFINE_integer("batch_size", 16,
 #                      "(size of a minibatch).")
 flags.DEFINE_integer("concurrent_steps", 12,
                      "The number of concurrent training steps.")
-flags.DEFINE_integer("window_size", 5,
+flags.DEFINE_integer("window_size", 10,
                      "The number of words to predict to the left and right "
                      "of the target word.")
 flags.DEFINE_integer("min_count", 5,
@@ -545,7 +546,7 @@ def train(opts):
       _start_shell(locals())
 
 
-
+'''
 def get_unknown_known_effects(model):
   rootDir = "vocab_known_effects/22m_meds_nourl"
   #med_list = ['melatonin', 'stjohnswort', 'valerian', 'echinacea']
@@ -580,7 +581,7 @@ def get_unknown_known_effects(model):
               analogy_results_file.close()
               analogy_results_file_only.close()
 
-
+'''
 def get_se_ind_analogy(model):
   import json
 
@@ -645,14 +646,14 @@ def get_se_ind_analogy(model):
     final_results_ind[u_gen_med] = u_brand_results_ind
     if final_results_ind:
       print("Building one Med pred Indications")
-      with open('analogy_results/brand_wise/'+u_gen_med+'_ind.json', 'w') as f:
+      with open('analogy_results/only_effs/'+u_gen_med+'_ind.json', 'w') as f:
         json.dump(final_results_ind, f, indent=2)
 
     final_results_se = {}
     final_results_se[u_gen_med] = u_brand_results_se
     if final_results_se:
       print("Building one Med pred Side Effects")
-      with open('analogy_results/brand_wise/'+u_gen_med+'_se.json', 'w') as f:
+      with open('analogy_results/only_effs/'+u_gen_med+'_se.json', 'w') as f:
         json.dump(final_results_se, f, indent=2)
 
   # # unk gen med.
