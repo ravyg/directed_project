@@ -593,6 +593,7 @@ def get_se_ind_analogy(model):
       all_effects[row[1]] = row[0]
   all_known_effects_file.close()
 
+  # Get brand names grouped by generic medicines.
   with open('sider_crawl/gen_med_set.json') as med_sets:    
       med_sets_dict = json.load(med_sets)
       #print(json.dumps(med_sets_json, indent=2))
@@ -600,24 +601,31 @@ def get_se_ind_analogy(model):
   # for generic_name in med_sets_dict:
   #   brand_list.extend(med_sets_dict[generic_name])
 
-  with open('sider_crawl/med_se_in_cleaned.json') as med_se_ind:    
+  # Get generic medicne and known effects. [Future IMPORTANCE!!!!]
+  # with open('sider_crawl/med_se_in_cid.json') as med_se_ind: # effect:CID changed to Dictionary.
+  with open('sider_crawl/med_se_in_cleaned.json') as med_se_ind: # Previously as list of effects.
       med_se_ind_dict = json.load(med_se_ind)
 
   # unk gen med.
+  # For each generic medicine (unknown).
   for u_gen_med in med_sets_dict:
     print(u_gen_med)
     u_brand_set = med_sets_dict[u_gen_med]
     u_brand_results_ind = []
     u_brand_results_se = []
+    # Each brand in Generic medicine (unknown)
     for u_brand in u_brand_set:
-      # knw gen med
+      # Known generic medicine indications and side effects.
       pred_indications_cl = []
       pred_side_effects_cl = []
       for k_gen_med in med_se_ind_dict.keys():
+        # List of known indications, side effects and brand names in category.
         k_ses = med_se_ind_dict[k_gen_med]['side_effects']
         k_inds = med_se_ind_dict[k_gen_med]['indications']
         k_brands = med_sets_dict[k_gen_med]
+
         for k_brand in k_brands:
+          # Skip unknown brand in known brand.
           if k_brand != u_brand:
 
             # Indications Analogy.
